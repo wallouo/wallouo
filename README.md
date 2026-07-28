@@ -33,6 +33,6 @@ Production-grade flight price monitor with AI-powered deal extraction and Discor
 
 ### What I Focus On
 
-- **LLM Fine-tuning** — LoRA/DoRA training, prompt engineering, local model deployment
+- **LLM Fine-tuning** — LoRA training, prompt engineering, local model deployment
 - **Data Engineering** — ETL pipelines, web scraping at scale, anti-bot techniques
-- **Cloud & Infra** — Azure, Cloudflare Workers, CI/CD automation
+- **Cloud & Infra** — Azure, CI/CD automation
