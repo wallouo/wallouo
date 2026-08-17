@@ -31,6 +31,14 @@ Production-grade flight price monitor with AI-powered deal extraction and Discor
 
 ---
 
+### 🤗 Hugging Face Models
+
+| Model | Architecture | Description |
+| :--- | :--- | :--- |
+| [wallouo/Inaba](https://huggingface.co/wallouo/Inaba) | Qwen 3.5 4B (GGUF) | Fine-tuned companion model powering InabaPet |
+
+---
+
 ### What I Focus On
 
 - **LLM Fine-tuning** — LoRA training, prompt engineering, local model deployment
