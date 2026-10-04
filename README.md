@@ -3,6 +3,7 @@
 # Hey, I'm Wa11👋
 
 AI & Data Engineer · Applied AI, Automation & Product Integration
+
 I build data pipelines, fine-tune LLMs, and ship things that actually work.
 
 </div>
