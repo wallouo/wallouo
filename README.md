@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Wa11
+# Hey, I'm Wa11👋
 
-AI/ML Engineer · Full-Stack Developer  
+AI & Data Engineer · Applied AI, Automation & Product Integration
 I build data pipelines, fine-tune LLMs, and ship things that actually work.
 
 </div>
